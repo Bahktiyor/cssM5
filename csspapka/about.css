@@ -1,0 +1,40 @@
+h5{
+    width: 20ch;
+    font-family: monospace;
+    text-wrap: nowrap;
+    overflow: hidden;
+    animation: typing 2s steps(40 ) infinite alternate-reverse;
+}
+@keyframes typing  {
+    from{
+        width: 0ch;
+    }
+    
+}
+body{
+    background-color: bisque;
+}
+h5{
+    font-size: 50px;
+}
+.title{
+    font-size: 50px;
+}
+#hrone{
+    color: red;
+}
+.oneh1{
+    font-size: 40px;
+}
+.Been{
+    text-align: center;
+}
+.lineid{
+    font-size: 40px;
+}
+.ll{
+    font-size: 40px;
+}
+div{
+    font-size: 40px;
+}
